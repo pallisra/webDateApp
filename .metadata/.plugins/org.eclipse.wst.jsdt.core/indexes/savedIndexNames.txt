@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\DateProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2612174310.index
+3362555155.index
+3957989597.index
+3704857373.index
+947425.index
+3524166592.index
+1723637776.index
